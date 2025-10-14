@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Mateo Calvo (182857) - mat....@gmail.com
+- Matias Baldassini (200906) - mati....@gmail.com
 
 # Contexto / Escenario
 
