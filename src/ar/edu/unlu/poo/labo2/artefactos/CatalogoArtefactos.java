@@ -6,7 +6,7 @@ import java.util.*;
 
 public class CatalogoArtefactos {
   Set<Artefacto> conjuntoDeArtefactos = new HashSet<>();
-  EstrategiaDeMejora estrategia;
+  private  EstrategiaDeMejora estrategia;
 
   public void agregarArtefacto(Artefacto unArtefactoNuevo) {
     conjuntoDeArtefactos.add(unArtefactoNuevo);
